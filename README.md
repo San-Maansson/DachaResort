@@ -1,2 +1,3 @@
 # DachaResort
-Just testing the Github publish capability!
+Hi all!
+I'm currently working on creating a porfolio to show my works related to Data Analytics. More to come soon....
