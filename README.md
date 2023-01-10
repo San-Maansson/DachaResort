@@ -7,6 +7,7 @@ Hi all!
 I'm currently working on creating a porfolio to showcase my works related to BI & Data Analytics using a mixed bag of technologies such as Python, SQL, Excel and PowerBI. This project is a  sample of my hotel bookings of Dacha Resort, a small resort hotel in Phuket, Thailand, that I operated between 2011 - 2013. Some personal indentifiable data have been omitted to protect privacy.
 
 The data set contains 40060 rows of record and 32 feature sets.
+*Jupyter notebook file may take up to 10 sec. to load.*
 
 ### Table of Contents and Summary of Findings
 
