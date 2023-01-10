@@ -22,7 +22,7 @@ The data set contains 40060 rows of record and 32 feature sets.
 
 6. Exploratory Data Analysis and Summary of Findings
 
-- Bookings by Market Segment
+- Bookings by Market Segment \
     Shows that 44% of reservations were done online, ~19% was through offline travel agency and tour operators and another 16% were walk-in customers
 
 - Bookings by Distribution Channel
