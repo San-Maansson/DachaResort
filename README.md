@@ -4,7 +4,7 @@ text = "My Data Analysis Portfolio!"
 print(text)
 ```
 Hi all!
-I'm currently working on creating a porfolio to showcase my works related to BI & Data Analytics using a mixed bag of Python, SQL, Excel and PowerBI. This depository includes work sample of my hotel bookings from between 2011 - 2013. Some personal indentifiable data have been omitted to protect privacy.
+I'm currently working on creating a porfolio to showcase my works related to BI & Data Analytics using a mixed bag of Python, SQL, Excel and PowerBI. This project is a  sample of my hotel bookings, Dacha Resort, a small resort hotel in Phuket, Thailand, that I operated between 2011 - 2013. Some personal indentifiable data have been omitted to protect privacy.
 
 
 ### Table of Contents
