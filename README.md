@@ -8,7 +8,7 @@ I'm currently working on creating a porfolio to showcase my works related to BI 
 
 The data set contains 40060 rows of record and 32 feature sets.
 
-### Table of Contents
+### Table of Contents and Summary of Findings
 
 1. Import libraries
 
@@ -20,7 +20,7 @@ The data set contains 40060 rows of record and 32 feature sets.
 
 5. Descriptive Statistics
 
-6. Exploratory Data Analysis and Summary of Findings
+6. Exploratory Data Analysis
 
 - Bookings by Market Segment \
     Shows that 44% of reservations were done online, ~19% was through offline travel agency and tour operators and another 16% were walk-in customers
@@ -31,7 +31,7 @@ The data set contains 40060 rows of record and 32 feature sets.
 - Change Column Name - Converting Values Of The "meal" column
 
 - Bookings by Meals \
--   3 Quarters of reservations include breakfast
+  3 Quarters of reservations include breakfast
 
 - Bookings by Customers type
 - Bookings by type of Guest \
